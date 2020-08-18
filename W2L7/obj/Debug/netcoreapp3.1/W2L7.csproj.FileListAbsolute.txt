@@ -1,0 +1,13 @@
+C:\Users\Zaicew\source\repos\W2L7\W2L7\bin\Debug\netcoreapp3.1\W2L7.exe
+C:\Users\Zaicew\source\repos\W2L7\W2L7\bin\Debug\netcoreapp3.1\W2L7.deps.json
+C:\Users\Zaicew\source\repos\W2L7\W2L7\bin\Debug\netcoreapp3.1\W2L7.runtimeconfig.json
+C:\Users\Zaicew\source\repos\W2L7\W2L7\bin\Debug\netcoreapp3.1\W2L7.runtimeconfig.dev.json
+C:\Users\Zaicew\source\repos\W2L7\W2L7\bin\Debug\netcoreapp3.1\W2L7.dll
+C:\Users\Zaicew\source\repos\W2L7\W2L7\bin\Debug\netcoreapp3.1\W2L7.pdb
+C:\Users\Zaicew\source\repos\W2L7\W2L7\obj\Debug\netcoreapp3.1\W2L7.AssemblyInfoInputs.cache
+C:\Users\Zaicew\source\repos\W2L7\W2L7\obj\Debug\netcoreapp3.1\W2L7.AssemblyInfo.cs
+C:\Users\Zaicew\source\repos\W2L7\W2L7\obj\Debug\netcoreapp3.1\W2L7.csproj.CoreCompileInputs.cache
+C:\Users\Zaicew\source\repos\W2L7\W2L7\obj\Debug\netcoreapp3.1\W2L7.dll
+C:\Users\Zaicew\source\repos\W2L7\W2L7\obj\Debug\netcoreapp3.1\W2L7.pdb
+C:\Users\Zaicew\source\repos\W2L7\W2L7\obj\Debug\netcoreapp3.1\W2L7.genruntimeconfig.cache
+C:\Users\Zaicew\source\repos\W2L7\W2L7\obj\Debug\netcoreapp3.1\W2L7.csprojAssemblyReference.cache

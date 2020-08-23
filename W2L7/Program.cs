@@ -6,21 +6,31 @@ namespace W2L7
     {
         static void Main(string[] args)
         {
-            W2L7_1();
-            W2L7_2();
-            W2L7_3();
-            W2L7_3();
-            W2L7_3();
-            W2L7_4();
-            W2L7_5();
+            //W2L7_1();
+            //W2L7_2();
+            //W2L7_3();
+            //W2L7_3();
+            //W2L7_3();
+            //W2L7_4();
+            //W2L7_5();
             W2L7_6();
-            W2L7_7();
-            W2L7_8();
-            W2L7_9();
-            W2L7_10();
-            W2L7_11();
-            W2L7_12();
-            W2L7_13();
+            W2L7_6();
+            W2L7_6();
+            W2L7_6();
+            W2L7_6();
+            W2L7_6();
+            W2L7_6();
+            //W2L7_7();
+            //W2L7_8();
+            //W2L7_9();
+            //W2L7_10();
+            //W2L7_11();
+            //W2L7_12();
+            //W2L7_13();
+
+            int a = Convert.ToInt32(53.96);
+            Console.WriteLine(a);
+
         }
 
         //1. Napisz program w C#, który stworzy dwie zmienne int i sprawdzi czy są
@@ -73,8 +83,8 @@ namespace W2L7
             double.TryParse(Console.ReadLine(), out double a);
             if (a > 0)
                 Console.WriteLine($"Number {a} is positive!");
-            else if (a == 0 )
-                Console.WriteLine($"Number {a} equal 0! What can I say?! :)");            
+            else if (a == 0)
+                Console.WriteLine($"Number {a} equal 0! What can I say?! :)");
             else
                 Console.WriteLine($"Number {a} is negative!");
         }
@@ -127,17 +137,19 @@ namespace W2L7
         {
             Console.WriteLine("Let's check how we can call You! Type Your height...");
             int.TryParse(Console.ReadLine(), out int a);
-            if (a > 140)
+            if (a <= 20 || a >= 250)
+                Console.WriteLine("Type correct number!");
+            else if (a <= 140)
                 Console.WriteLine("You're a dwarf!");
-            else if (a > 150)
+            else if (a <= 150)
                 Console.WriteLine("You're a little higher dwarf! ;D");
-            else if (a > 160)
+            else if (a <= 160)
                 Console.WriteLine("You're a halfling!");
-            else if (a > 170)
+            else if (a <= 170)
                 Console.WriteLine("You're a dwarf + halfling!");
-            else if (a > 180)
+            else if (a <= 180)
                 Console.WriteLine("Now You can helping dwarfs");
-            else if (a > 190)
+            else if (a <= 190)
                 Console.WriteLine("You're tall! And You can still helping dwarfs! ;)");
             else if (a > 190)
                 Console.WriteLine("You're giant!");
